@@ -16,6 +16,13 @@ p {
   font-size: 1.1em;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50em;
+}
+
 /* Links */
 a:link {
   color: rgb(255, 255, 255) }

@@ -3,13 +3,17 @@ body {
   padding-top: 1em;
   padding-bottom: 5em;
   padding-left: 35em;
-  padding-right: 8%;
+  padding-right: 4em;
   font-family: calibri light;
   font-size: 0.8em;
   letter-spacing: 0.2em;
   line-height: 1.5em;
   color: rgb(255, 255, 255);
   background-color: #202022 
+}
+
+p {
+  font-size: 1.1em;
 }
 
 /* Links */
